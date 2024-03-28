@@ -1,7 +1,6 @@
 # Documentazione progetti pubbici
 
-> ### Ciao!!! 
->
+> ### Ciao!!!
 > Mi fa piacere che tu sia approdat* qui, 
 > chi sa chi sei.... come ci siamo conosciuti... se ci odiamo o ci amiamo....
 
@@ -16,7 +15,8 @@ ma se sei arrivato vuol dire che probabilmente voglio condividere con te qualche
 Sentiti in diritto di ficcanasare (diritto da aggiungere alla Costituzione...).
 
 Per adesso i progetti pubblici sono:
-- [Computer Architecture](https://gvoreste.github.io/ComputerArchitecture/): ovvero una spece di quaderno del corso di **Computer Architecture for Physicists** nell'anno 23-24
+- [Computer Architecture](https://github.com/GVoreste/ComputerArchitecture): ovvero una spece di quaderno del corso di **Computer Architecture for Physicists** nell'anno 23-24.
+  La documentazione si può raggiungere dal **`README.md`** del progetto, oppure a [questo indirizzo](https://gvoreste.github.io/ComputerArchitecture/).
 e per adesso mi fermo quà (1 direi che è il numero minimo, e l'ho raggiunto, speriamo possa crescere).
 
 > *Un s4lut0 4 t3 v14nd4nt3, t1 4ugur0 bu0n v14gg10!!!!!*
