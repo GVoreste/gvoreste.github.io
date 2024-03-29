@@ -1,11 +1,11 @@
 # Documentazione progetti pubbici
 
 > ### Ciao!!!
-> Mi fa piacere che tu sia approdat* qui, 
+> Mi fa piacere che tu sia approdat\* qui, 
 > chi sa chi sei.... come ci siamo conosciuti... se ci odiamo o ci amiamo....
 
-Non importa, l'importante è che alla fine tu sia arrivat* su questa spiaggia virtuale.
-Tranqull*, la strada non è lunga, basta un *`click`* sulla pagina relativa alla documentazione che volevi consultare.
+Non importa, l'importante è che alla fine tu sia arrivat\* su questa spiaggia virtuale.
+Tranqull\*, la strada non è lunga, basta un *`click`* sulla pagina relativa alla documentazione che volevi consultare.
 
 Questa isola dovrebbe raccogliere i manuali e le pagine dei miei repositori pubblici. 
 È più per me per tenere organizzato e poter reperire a costo 0 (sia in termini temporali che economici) alcuni lavori,
